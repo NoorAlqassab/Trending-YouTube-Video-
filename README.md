@@ -1,18 +1,17 @@
-<img width="773" height="481" alt="image" src="https://github.com/user-attachments/assets/486c25bf-9f45-477c-bc52-329b80340c05" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/486c25bf-9f45-477c-bc52-329b80340c05" />
 
 # Trending YouTube Video Statistics 
 
 ## Project Title 
 
-Breaking USA YouTube Algorithm:
-
-Insights into Trending Videos and Engagement
+Breaking USA YouTube Algorithm:Insights into Trending Videos and Engagement.
 
 ## Description
 
-This project explores trends in US YouTube videos using the USvideos.csv dataset from Kaggle.
+The project explores trends in U.S. YouTube videos using the  USvideos.csv dataset from Kaggle.
+It aims to analyze trending videos to uncover patterns and factors that infuence the likelihood of a video trending and its engagement performance. The insights are intended to help content creators optimize their strategies for improved visibility and broader audience reach
 
-Our goal is to analyze YouTube trending videos in order to identify patterns and factors that influence a video's likelihood to trend and its engagement performance, helping content creators optimize their strategies for better visibility and audience reach.
+
 
 ## Dataset
 
