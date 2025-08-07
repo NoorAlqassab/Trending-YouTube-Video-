@@ -37,11 +37,11 @@ We addressed several key questions:
 9.	The video that have been the most trend 2017, 2018?
 ## How to Run
 
-1-Open the Jupyter notebook or Python script (e.g., analysis.ipynb)
-in your preferred environment (VSCode, JupyterLab, etc.)
+1-Open the Jupyter notebook in JupyterLab.
 
 2-Run the cells step-by-step. The dataset must be downloaded manually
 from Kaggle and placed in the working directory.
+
 ## Dependencies
 
 Make sure the following Python libraries are installed:
