@@ -26,14 +26,12 @@ Details: Contains data on daily trending YouTube videos in the US from 2017-2018
 ## Analysis
 We addressed several key questions:
 1.	Which video categories trend the most frequently?
-2.	Which categories get the highest engagement (likes, comments, views)?
-3.	Which categories get the lowest engagement (likes, comments, views)?
-4.	Do certain publishing days or times lead to better trending performance?
-5.	Which channels trend the most — and what do they have in common?
-6.	What are the most common tags or keywords among trending videos?
-7.	How long does it typically take for a video to become trending after being published?
-8.	What is the correlation between likes and views?
-9.	The video that have been the most trend 2017, 2018?
+2.	Which categories get the highest/lowest engagement (likes, comments, views)?
+3.	Do certain publishing days or times lead to better trending performance?
+4.	Which channels trend the most — and what do they have in common?
+5.	What are the most common tags or keywords among trending videos?
+6.	How long does it typically take for a video to become trending after being published?
+
 
 
 ## Conclution
@@ -48,6 +46,6 @@ We addressed several key questions:
 ## Dependencies
 
 Make sure the following Python libraries are installed:
-`pip install pandas seaborn matplotlib,
+pip install pandas seaborn matplotlib
 
 
