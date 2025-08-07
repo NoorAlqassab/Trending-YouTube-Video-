@@ -18,6 +18,8 @@ Our goal is to analyze YouTube trending videos in order to identify patterns and
 
 Source: Kaggle – YouTube Trending Video Dataset
 
+https://www.kaggle.com/datasets/datasnaek/youtube-new/data?select=USvideos.csv
+
 File Used: USvideos.csv
 
 Details: Contains data on daily trending YouTube videos in the US from 2017-2018. Each row represents a video trending on a specific date, including metadata like views, likes, comments, publish date, category, and more.
