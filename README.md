@@ -35,11 +35,11 @@ We addressed several key questions:
 7.	How long does it typically take for a video to become trending after being published?
 8.	What is the correlation between likes and views?
 9.	The video that have been the most trend 2017, 2018?
+    
+Key Findings:
 
 •	Entertainment and Music categories are more likely to trend than News or Education.
-
 •	Videos with more tags or certain keywords tend to trend more.
-
 •	Videos published on Thursday and Fridays get more engagement.
 
 ## How to Run
