@@ -4,7 +4,9 @@
 
 ## Project Title 
 
-US YouTube Trending Video Analysis
+Breaking USA YouTube Algorithm:
+
+Insights into Trending Videos and Engagement
 
 ## Description
 
