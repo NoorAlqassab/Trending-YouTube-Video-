@@ -1,11 +1,15 @@
 <img width="773" height="481" alt="image" src="https://github.com/user-attachments/assets/486c25bf-9f45-477c-bc52-329b80340c05" />
 
-# Trending-YouTube-Video-Statistics-
+# Trending YouTube Video Statistics 
 
-## Project Title-
+## Project Title 
+
 US YouTube Trending Video Analysis
-## Description-
+
+## Description
+
 This project explores trends in US YouTube videos using the USvideos.csv dataset from Kaggle.
+
 Our goal is to analyze YouTube trending videos in order to identify patterns and factors that influence a video's likelihood to trend and its engagement performance, helping content creators optimize their strategies for better visibility and audience reach.
 
 ## Dataset-
@@ -28,16 +32,24 @@ We addressed several key questions:
 8.	What is the correlation between likes and views?
 9.	The video that have been the most trend 2017, 2018?
 ## How to Run-
+
 1-Open the Jupyter notebook or Python script (e.g., analysis.ipynb)
 in your preferred environment (VSCode, JupyterLab, etc.)
+
 2-Run the cells step-by-step. The dataset must be downloaded manually
 from Kaggle and placed in the working directory.
 ## Dependencies-
+
 Make sure the following Python libraries are installed:
+
 pip install pandas seaborn matplotlib
+
 Used libraries:
+
 pandas – for data loading and manipulation
+
 seaborn – for advanced plotting
+
 matplotlib – for visualizations
 
 
