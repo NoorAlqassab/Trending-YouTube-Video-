@@ -7,9 +7,8 @@
 Breaking USA YouTube Algorithm:Insights into Trending Videos and Engagement.
 
 ## Description
-
-The project explores trends in U.S. YouTube videos using the  USvideos.csv dataset from Kaggle.
-It aims to analyze trending videos to uncover patterns and factors that infuence the likelihood of a video trending and its engagement performance. The insights are intended to help content creators optimize their strategies for improved visibility and broader audience reach
+This project explores trends in US YouTube videos using the USvideos.csv dataset from Kaggle.
+Our goal is to analyze video categories, engagement metrics (views, likes, comments), and other factors that influence which videos trend in the US.
 
 
 
