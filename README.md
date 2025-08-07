@@ -34,8 +34,9 @@ We addressed several key questions:
 7.	How long does it typically take for a video to become trending after being published?
 8.	What is the correlation between likes and views?
 9.	The video that have been the most trend 2017, 2018?
-    
-Key Findings:
+
+
+## Conclution
 
 •	Entertainment and Music categories are more likely to trend than News or Education.
 
@@ -43,25 +44,10 @@ Key Findings:
 
 •	Videos published on Thursday and Fridays get more engagement.
 
-## How to Run
-
-
-1. Open the Jupyter notebook in JupyterLab.
-
-2. Run the cells step-by-step. The dataset must be downloaded manually
-from Kaggle and placed in the working directory.
 
 ## Dependencies
 
 Make sure the following Python libraries are installed:
+`pip install pandas seaborn matplotlib,
 
-pip install pandas seaborn matplotlib
-
-Used libraries:
-
-pandas – for data loading and manipulation
-
-seaborn – for advanced plotting
-
-matplotlib – for visualizations
 
