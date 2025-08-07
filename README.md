@@ -7,10 +7,15 @@ US YouTube Trending Video Analysis
 ## Description-
 This project explores trends in US YouTube videos using the USvideos.csv dataset from Kaggle.
 Our goal is to analyze YouTube trending videos in order to identify patterns and factors that influence a video's likelihood to trend and its engagement performance, helping content creators optimize their strategies for better visibility and audience reach.
+
 ## Dataset-
+
 Source: Kaggle – YouTube Trending Video Dataset
+
 File Used: USvideos.csv
+
 Details: Contains data on daily trending YouTube videos in the US from 2017-2018. Each row represents a video trending on a specific date, including metadata like views, likes, comments, publish date, category, and more.
+
 ## Analysis-
 We addressed several key questions:
 1.	Which video categories trend the most frequently?
